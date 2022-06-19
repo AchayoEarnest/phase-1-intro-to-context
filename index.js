@@ -13,3 +13,34 @@ function createEmployeeRecord(data) {
 function createEmployeeRecords(){
     
 }
+
+function createTimeInEvent(){
+    
+}
+
+
+function createTimeOutEvent(){
+    
+}
+
+
+function hoursWorkedOnDate(){
+    
+}
+
+
+function allWagesFor(){
+    
+}
+
+
+function calculatePayroll(){
+    
+}
+
+
+function wagesEarnedOnDate(){
+    
+}
+
+
